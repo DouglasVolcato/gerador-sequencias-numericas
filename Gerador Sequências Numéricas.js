@@ -34,3 +34,6 @@ while(true) {
     if (continuar == 2) {break}
     }
 }
+
+//Criado por Douglas Volcato
+//Github: https://github.com/DouglasVolcato
